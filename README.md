@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![bmlsj's github stats](https://github-readme-stats.vercel.app/api?username=bmlsj&show_icons=true)
+
 <!--
 **bmlsj/bmlsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
