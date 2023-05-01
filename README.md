@@ -2,7 +2,7 @@
 
 ![bmlsj's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bmlsj&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/bmlsj/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/flow/)
 
 <!--
 **bmlsj/bmlsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
