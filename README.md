@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flow)](https://solved.ac/flow/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyuksanglee" alt="hyuksanglee" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bmlsj" alt="hyuksanglee" /></a> </p>
 
 <!--
 **bmlsj/bmlsj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
