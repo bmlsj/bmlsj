@@ -29,6 +29,7 @@
 ###
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flow)](https://solved.ac/flow/)
+[![Solved.ac Jandi](https://mazandi.herokuapp.com/api?handle=flow&theme=warm)](https://solved.ac/flow/)
 
 
 <!-- 
