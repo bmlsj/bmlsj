@@ -28,11 +28,16 @@
 
 ###
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flow)](https://solved.ac/flow/)
-[![Solved.ac Jandi](https://mazandi.herokuapp.com/api?handle=flow&theme=warm)](https://solved.ac/flow/)
+<center>
+  <a href="https://solved.ac/profile/flow"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=flow"></a>
+</center>
+
 
 
 <!-- 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flow)](https://solved.ac/flow/)
+[![Solved.ac Jandi](https://mazandi.herokuapp.com/api?handle=flow&theme=warm)](https://solved.ac/flow/)
 ![bmlsj's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bmlsj&show_icons=true)
 
 
