@@ -3,6 +3,8 @@
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
+</br>
+
 <h3 align="left">🏫 Education / Experience</h3>
 
 - Samsung SW Academy For Youth 12th Trainee (교육생) (2024.07 ~ 2025.06)
