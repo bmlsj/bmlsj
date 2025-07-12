@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 </br>
 
 <h3 align="left">🏫 Education / Experience</h3>
@@ -26,16 +25,18 @@
 <h3 align="left"> 📁 대표 프로젝트 </h3>
 
 | Name | Role |
-|---|-----|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hogumiwarts&repo=LUMOS&layout=compact)](https://github.com/Hogumiwarts/LUMOS_README)| 팀장, Android |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arizoonaa&repo=LipIt_README&layout=compact)](https://github.com/Arizoonaa/LipIt_README)| 팀장, AI, Android |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=planned-explosion&repo=Ganhoho_README&layout=compact)](https://github.com/planned-explosion/Ganhoho_README)| 팀장, 백엔드, 제스처, WebSocket |
+|---|:-:|
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hogumiwarts&repo=LUMOS&layout=compact&theme=dracula)](https://github.com/Hogumiwarts/LUMOS_README)| 팀장, Android |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arizoonaa&repo=LipIt_README&layout=compact&theme=dracula)](https://github.com/Arizoonaa/LipIt_README)| 팀장, AI, Android |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=planned-explosion&repo=Ganhoho_README&layout=compact&theme=dracula)](https://github.com/planned-explosion/Ganhoho_README)| 팀장, 백엔드, 제스처, WebSocket |
+
+</br>
 
 <h3>🏆 Awards </h3>
 
 |Awarded Date|Contents|Name|Organization|
 |:-:|---|:-:|---|
-|2025.06.24|우수 상위 30% 수료|고용노동부|삼성 청년 SW 아카데미|
+|2025.06.24|우수 상위 30% 수료|고용노동부|삼성 청년 SW·AI 아카데미|
 |2025.05.22|[UWB 및 제스처 기반 스마트홈 제어 앱](https://github.com/Hogumiwarts/LUMOS_README)|자율 프로젝트 2등 우수상|삼성 청년 SW·AI 아카데미|
 |2024.04.11|[AI 영어 스피킹 학습 앱](https://github.com/Arizoonaa/LipIt_README)|특화 프로젝트 2등 우수상|삼성 청년 SW·AI 아카데미|
 |2024.11.29|[뜨개질 소품샵 스마트 스토어 앱](https://github.com/zuhugirlfuran/PogDagPogDag)|관통 프로젝트 1등 최우수상|삼성 청년 SW·AI 아카데미|
@@ -46,7 +47,7 @@
 <h3>📂 Certifiacte </h3>
 
 |Date of Issue|Name|Organization|
-|:-:|---|:-:|
+|:-:|:-:|:-:|
 |2024.08.24|SQLD|한국데이터산업진흥원|
 |2023.06.09|정보처리기사|산업인력관리공단|
 
@@ -59,7 +60,12 @@
 ###
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flow)](https://solved.ac/flow/)
+<a href="https://solved.ac/flow/">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=flow" height="150">
+</a>
+<a href="https://git.io/awesome-stats-card">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/bmlsj?theme=solarized-light&preferLogin=false" height="150">
+</a>
 
 
 
