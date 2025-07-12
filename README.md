@@ -58,11 +58,8 @@
 
 ###
 
-<center>
-  <a href="https://solved.ac/profile/flow"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=flow"></a>
-</center>
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=flow)](https://solved.ac/flow/)
 
 
 
