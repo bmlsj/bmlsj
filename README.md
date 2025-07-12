@@ -28,8 +28,8 @@
 | Name | Role |
 |---|-----|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hogumiwarts&repo=LUMOS)](https://github.com/Hogumiwarts/LUMOS_README)| 팀장, Android |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arizoonaa&repo=LipIt)](https://github.com/Arizoonaa/LipIt_README)| 팀장, AI, Android |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=planned-explosion&repo=Ganhoho)](https://github.com/planned-explosion/Ganhoho_README)| 팀장, 제스처, WebSocket |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arizoonaa&repo=LipIt_README)](https://github.com/Arizoonaa/LipIt_README)| 팀장, AI, Android |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=planned-explosion&repo=Ganhoho_README)](https://github.com/planned-explosion/Ganhoho_README)| 팀장, 제스처, WebSocket |
 
 <h3>🏆 Awards </h3>
 
