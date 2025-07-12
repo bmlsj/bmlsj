@@ -36,9 +36,9 @@
 |Awarded Date|Contents|Name|Organization|
 |:-:|---|:-:|---|
 |2025.06.24|우수 상위 30% 수료|고용노동부|삼성 청년 SW 아카데미|
-|2025.05.22|[UWB 및 제스처 기반 스마트홈 제어 앱](https://github.com/Hogumiwarts/LUMOS_README)|자율 프로젝트 2등 우수상|삼성 청년 SW 아카데미|
-|2024.04.11|[AI 영어 스피킹 학습 앱](https://github.com/Arizoonaa/LipIt_README)|특화 프로젝트 2등 우수상|삼성 청년 SW 아카데미|
-|2024.11.29|[뜨개질 소품샵 스마트 스토어 앱](https://github.com/zuhugirlfuran/PogDagPogDag)|관통 프로젝트 1등 최우수상|삼성 청년 SW 아카데미|
+|2025.05.22|[UWB 및 제스처 기반 스마트홈 제어 앱](https://github.com/Hogumiwarts/LUMOS_README)|자율 프로젝트 2등 우수상|삼성 청년 SW·AI 아카데미|
+|2024.04.11|[AI 영어 스피킹 학습 앱](https://github.com/Arizoonaa/LipIt_README)|특화 프로젝트 2등 우수상|삼성 청년 SW·AI 아카데미|
+|2024.11.29|[뜨개질 소품샵 스마트 스토어 앱](https://github.com/zuhugirlfuran/PogDagPogDag)|관통 프로젝트 1등 최우수상|삼성 청년 SW·AI 아카데미|
 |2022.02.07|한국소프트웨어종합학술대회 학부생/주니어논문경진대회 학부생부문|장려상|한국정보과학회|
 
 </br>
