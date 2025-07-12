@@ -5,7 +5,7 @@
 
 <h3 align="left">🏫 Education / Experience</h3>
 
-- Samsung SW Academy For Youth 12th Trainee (교육생) (2024.07 ~ 2025.06)
+- Samsung SW·AI Academy For Youth 12th Trainee (교육생) (2024.07 ~ 2025.06)
 
 - Kyungpook National Univ of Computer Science and Engineering (2018.03 ~ 2023.02)
 
