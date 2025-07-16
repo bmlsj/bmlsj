@@ -26,9 +26,9 @@
 
 | Name | Role |
 |---|:-:|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hogumiwarts&repo=LUMOS&layout=compact&theme=dracula)](https://github.com/Hogumiwarts/LUMOS_README)| 팀장, Android |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hogumiwarts&repo=LUMOS&layout=compact&theme=dracula)](https://github.com/Hogumiwarts/LUMOS_README)| 제스처, WebSocket, 백엔드|
 |[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Arizoonaa&repo=LipIt_README&layout=compact&theme=dracula)](https://github.com/Arizoonaa/LipIt_README)| 팀장, AI, Android |
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=planned-explosion&repo=Ganhoho_README&layout=compact&theme=dracula)](https://github.com/planned-explosion/Ganhoho_README)| 팀장, 백엔드, 제스처, WebSocket |
+|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=planned-explosion&repo=Ganhoho_README&layout=compact&theme=dracula)](https://github.com/planned-explosion/Ganhoho_README)| 팀장, Android  |
 
 </br>
 
